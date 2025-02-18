@@ -14,6 +14,7 @@ import javax.swing.JLabel;
 public class MiguelAngelGUIGIT
 extends JFrame {
 public MiguelAngelGUIGIT() {
+System.out.println("La ventana se ha abierto");
 JLabel lblSaludo = new JLabel("Hola Mundo.");
 JLabel lblSaludo2 = new JLabel("¿Qué tal estás?.");
 JLabel lblSaludo3 = new JLabel("¿Hola?.");
